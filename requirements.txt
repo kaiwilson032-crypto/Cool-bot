@@ -2,3 +2,4 @@ discord.py==2.4.0
 python-dotenv==1.0.0
 google-generativeai==0.3.0
 aiohttp==3.9.1
+pycord==2.4.1
