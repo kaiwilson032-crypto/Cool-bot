@@ -1,0 +1,12 @@
+# Create file named .gitignore in your repo root
+.env
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+bot_cache.json
+venv/
+.vscode/
+.DS_Store
