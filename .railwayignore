@@ -1,0 +1,11 @@
+# Don't include these in Railway deployment
+.git
+.gitignore
+.vscode
+.idea
+*.md
+README.md
+.env.example
+templates/
+data/
+*.log
